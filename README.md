@@ -11,7 +11,8 @@ cd object-detection
 ```
 
 ### Install Dependencies
-Ensure you have Python installed, then run:
+Don't forget to install requirements. 
+
 ```bash
 pip install -r requirements.txt
 ```
